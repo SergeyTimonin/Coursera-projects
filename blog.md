@@ -354,4 +354,4 @@ Purpose of my project was to identify the optimal places for the location of fit
 Results provided by me research can ease new investors to found out potentially best place for new a new fitness centers.
 
 Best regards,  
-Presnyakov Roman.
+Timonin Sergey.
